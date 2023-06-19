@@ -1,1 +1,6 @@
-# front_rh_solution
+# Installation
+
+```
+cd front_rh_solution 
+npm install
+```
